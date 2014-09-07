@@ -8,3 +8,9 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2014-09-07 23:19:52.366
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-08 01:12:22.249
+!MESSAGE Indexed 'test' (1 sources, 13 headers) in 2.19 sec: 4 declarations; 7 references; 14 unresolved inclusions; 0 syntax errors; 4 unresolved names (26.67%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-08 01:14:15.564
+!MESSAGE Indexed 'mySubmissions' (1 sources, 158 headers) in 27.74 sec: 13,229 declarations; 22,058 references; 0 unresolved inclusions; 6 syntax errors; 10 unresolved names (0.03%)

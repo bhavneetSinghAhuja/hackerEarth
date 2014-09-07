@@ -1,0 +1,14 @@
+
+**** Build of configuration Debug for project mySubmissions ****
+
+make all 
+Building file: ../src/mySubmissions.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/mySubmissions.d" -MT"src/mySubmissions.d" -o"src/mySubmissions.o" "../src/mySubmissions.cpp"
+Finished building: ../src/mySubmissions.cpp
+ 
+Building target: mySubmissions
+Invoking: MacOS X C++ Linker
+g++  -o "mySubmissions"  ./src/mySubmissions.o   
+Finished building target: mySubmissions
+ 
