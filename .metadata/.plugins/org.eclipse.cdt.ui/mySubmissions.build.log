@@ -2,23 +2,4 @@
 **** Build of configuration Debug for project mySubmissions ****
 
 make all 
-Building file: ../src/costOfData.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/costOfData.d" -MT"src/costOfData.d" -o"src/costOfData.o" "../src/costOfData.cpp"
-../src/costOfData.cpp:15:22: warning: suggest braces around initialization of subobject [-Wmissing-braces]
-        long int a[26][30]={0};
-                            ^
-                            {}
-1 warning generated.
-Finished building: ../src/costOfData.cpp
- 
-Building file: ../src/mySubmissions.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/mySubmissions.d" -MT"src/mySubmissions.d" -o"src/mySubmissions.o" "../src/mySubmissions.cpp"
-Finished building: ../src/mySubmissions.cpp
- 
-Building target: mySubmissions
-Invoking: MacOS X C++ Linker
-g++  -o "mySubmissions"  ./src/costOfData.o ./src/mySubmissions.o   
-Finished building target: mySubmissions
- 
+make: Nothing to be done for `all'.
