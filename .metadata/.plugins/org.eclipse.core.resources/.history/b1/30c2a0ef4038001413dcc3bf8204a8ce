@@ -1,0 +1,14 @@
+/*
+ * costOfData.h
+ *
+ *  Created on: Sep 9, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#ifndef COSTOFDATA_H_
+#define COSTOFDATA_H_
+
+class costOfData {
+};
+
+#endif /* COSTOFDATA_H_ */
