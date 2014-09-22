@@ -1,0 +1,42 @@
+/*
+ * Rabbit.cpp
+ *
+ *  Created on: Sep 17, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#include <iostream>
+
+using namespace std;
+
+void rabbitUtil1(long int p, long int step){
+
+	if((p-step)==0||(p-step-1)==0){
+		cout<<step<<endl;
+		return;
+	}
+	else{step++;
+			rabbitUtil1(p-step,step);
+			rabbitUtil1(p-step-1,step);
+	}
+
+}
+
+void rabbitUtil(){
+
+	long int p;
+	cin>>p;
+
+	rabbitUtil1(p,1);
+}
+
+void rabbit(){
+
+	int t;
+	cin>>t;
+	for(int i=0;i<t;i++)
+		rabbitUtil();
+}
+
+int main(){rabbit();return 0;}
+

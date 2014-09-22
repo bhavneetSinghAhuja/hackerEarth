@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="17" version="2.0">
+<workbench progressCount="15" version="2.0">
 <workbenchAdvisor/>
-<window height="768" width="1024" x="0" y="28">
+<window height="774" maximized="true" minimized="true" width="1280" x="0" y="22">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -29,13 +29,28 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="mySubmissions.cpp" partName="mySubmissions.cpp" path="/Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/mySubmissions/src/mySubmissions.cpp" title="mySubmissions.cpp" tooltip="mySubmissions/src/mySubmissions.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mySubmissions/src/mySubmissions.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="280" selectionTopPixel="0"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="MiceV1.cpp" partName="MiceV1.cpp" path="/Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/hackerRank/src/MiceV1.cpp" title="MiceV1.cpp" tooltip="hackerRank/src/MiceV1.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/hackerRank/src/MiceV1.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="683" selectionTopPixel="279"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="PinProblem1.cpp" partName="PinProblem1.cpp" path="/Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/hackerRank/src/PinProblem1.cpp" title="PinProblem1.cpp" tooltip="hackerRank/src/PinProblem1.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/hackerRank/src/PinProblem1.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="664" selectionTopPixel="339"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Rabbit.cpp" partName="Rabbit.cpp" path="/Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/hackerRank/src/Rabbit.cpp" title="Rabbit.cpp" tooltip="hackerRank/src/Rabbit.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/hackerRank/src/Rabbit.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="584" selectionOffset="85" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="CuttingPaper.cpp" partName="CuttingPaper.cpp" path="/Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/hackerRank/src/CuttingPaper.cpp" title="CuttingPaper.cpp" tooltip="hackerRank/src/CuttingPaper.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/hackerRank/src/CuttingPaper.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1589" selectionTopPixel="365"/>
 </editor>
 </editors>
 <views>
@@ -47,9 +62,9 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings (1 item)"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="84" org.eclipse.ui.ide.markerType="114" org.eclipse.ui.ide.pathField="144" org.eclipse.ui.ide.resourceField="114" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -181,20 +196,159 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mySubmissions/src/mySubmissions.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test/src/test.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/hackerRank/src/PinProblem1.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/hackerRank/src/Rabbit.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/hackerRank/src/CuttingPaper.cpp"/>
 </editors>
-<item historyLabel="mySubmissions.cpp" index="0">
-<position info="not_deleted" x="0" y="249"/>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="test.cpp" index="1">
-<position info="not_deleted" x="0" y="168"/>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="699" y="0"/>
 </item>
-<item historyLabel="mySubmissions.cpp" index="0">
-<position info="not_deleted" x="248" y="0"/>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="661" y="0"/>
 </item>
-<item active="true" historyLabel="mySubmissions.cpp" index="0">
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="659" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="571" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="559" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="475" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="506" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
 <position/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="442" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="347" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="245" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="342" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="273" y="0"/>
+</item>
+<item historyLabel="PinProblem1.cpp" index="0">
+<position info="not_deleted" x="664" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="667" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="666" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="634" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="614" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="631" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="560" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="557" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="494" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="169" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="180" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="182" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="492" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="489" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="379" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="489" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="344" y="0"/>
+</item>
+<item historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="637" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1339" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1734" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1732" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1696" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1694" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1601" y="0"/>
+</item>
+<item historyLabel="CuttingPaper.cpp" index="2">
+<position info="not_deleted" x="1589" y="0"/>
+</item>
+<item active="true" historyLabel="Rabbit.cpp" index="1">
+<position info="not_deleted" x="637" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -213,6 +367,18 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="CuttingPaper.cpp" tooltip="hackerRank/src/CuttingPaper.cpp">
+<persistable path="/hackerRank/src/CuttingPaper.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Rabbit.cpp" tooltip="hackerRank/src/Rabbit.cpp">
+<persistable path="/hackerRank/src/Rabbit.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="PinProblem1.cpp" tooltip="hackerRank/src/PinProblem1.cpp">
+<persistable path="/hackerRank/src/PinProblem1.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MiceV1.cpp" tooltip="hackerRank/src/MiceV1.cpp">
+<persistable path="/hackerRank/src/MiceV1.cpp"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="test.cpp" tooltip="test/src/test.cpp">
 <persistable path="/test/src/test.cpp"/>
 </file>

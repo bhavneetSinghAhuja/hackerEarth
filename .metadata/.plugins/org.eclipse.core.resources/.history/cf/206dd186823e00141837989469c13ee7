@@ -1,0 +1,14 @@
+/*
+ * PinProblem1.h
+ *
+ *  Created on: Sep 17, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#ifndef PINPROBLEM1_H_
+#define PINPROBLEM1_H_
+
+class PinProblem1 {
+};
+
+#endif /* PINPROBLEM1_H_ */

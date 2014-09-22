@@ -1,0 +1,14 @@
+/*
+ * Rabbit.h
+ *
+ *  Created on: Sep 17, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#ifndef RABBIT_H_
+#define RABBIT_H_
+
+class Rabbit {
+};
+
+#endif /* RABBIT_H_ */

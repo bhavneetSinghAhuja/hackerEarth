@@ -1,0 +1,18 @@
+/*
+ * BrokenKeyboard.cpp
+ *
+ *  Created on: Sep 13, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#include <stdio.h>
+
+using namespace std;
+
+void brokenKeyboard(){
+	long int t;
+	scanf("%ld",&t);
+	printf("%ld",t);
+	return;
+}
+int main(){brokenKeyboard();return 0;}

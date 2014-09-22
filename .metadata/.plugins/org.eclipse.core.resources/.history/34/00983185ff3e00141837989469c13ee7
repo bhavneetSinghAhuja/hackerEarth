@@ -1,0 +1,14 @@
+/*
+ * CuttingPaper.h
+ *
+ *  Created on: Sep 18, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#ifndef CUTTINGPAPER_H_
+#define CUTTINGPAPER_H_
+
+class CuttingPaper {
+};
+
+#endif /* CUTTINGPAPER_H_ */
