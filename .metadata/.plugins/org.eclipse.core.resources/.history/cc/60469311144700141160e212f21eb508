@@ -1,0 +1,17 @@
+/*
+ * SeptemberLunchTimeChefAndEasyProblem2.h
+ *
+ *  Created on: Sep 28, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#ifndef SEPTEMBERLUNCHTIMECHEFANDEASYPROBLEM2_H_
+#define SEPTEMBERLUNCHTIMECHEFANDEASYPROBLEM2_H_
+
+class SeptemberLunchTimeChefAndEasyProblem2 {
+public:
+	SeptemberLunchTimeChefAndEasyProblem2();
+	virtual ~SeptemberLunchTimeChefAndEasyProblem2();
+};
+
+#endif /* SEPTEMBERLUNCHTIMECHEFANDEASYPROBLEM2_H_ */

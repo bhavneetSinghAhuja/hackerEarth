@@ -2,18 +2,4 @@
 **** Build of configuration Debug for project hackerRank ****
 
 make all 
-Building file: ../src/CuttingPaper.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/CuttingPaper.d" -MT"src/CuttingPaper.d" -o"src/CuttingPaper.o" "../src/CuttingPaper.cpp"
-Finished building: ../src/CuttingPaper.cpp
- 
-Building file: ../src/Rabbit.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Rabbit.d" -MT"src/Rabbit.d" -o"src/Rabbit.o" "../src/Rabbit.cpp"
-Finished building: ../src/Rabbit.cpp
- 
-Building target: hackerRank
-Invoking: MacOS X C++ Linker
-g++  -o "hackerRank"  ./src/AboveAverage.o ./src/BrokenKeyboard.o ./src/CuttingPaper.o ./src/MiceV1.o ./src/PinProblem1.o ./src/Rabbit.o   
-Finished building target: hackerRank
- 
+make: Nothing to be done for `all'.

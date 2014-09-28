@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : HackerEarth.cpp
+// Author      : Bhavneet Singh Ahuja
+// Version     :
+// Copyright   : Your copyright notice
+//============================================================================
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+
+void trendingTopics(){
+
+	long int n;
+	cin>>n;
+	vector<long long int> id;
+	vector<long long int> old;
+	vector<long long int> new;
+}
+
+int main() {trendingTopics();return 0;}

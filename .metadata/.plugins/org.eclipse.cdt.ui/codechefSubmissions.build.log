@@ -2,17 +2,13 @@
 **** Build of configuration Debug for project codechefSubmissions ****
 
 make all 
-Building file: ../src/Factoriz.cpp
+Building file: ../src/SeptemberLunchTimeChefAndEasyProblem.cpp
 Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Factoriz.d" -MT"src/Factoriz.d" -o"src/Factoriz.o" "../src/Factoriz.cpp"
-../src/Factoriz.cpp:34:13: warning: format specifies type 'int *' but the argument has type 'int' [-Wformat]
-        scanf("%d",t);
-               ~~  ^
-1 warning generated.
-Finished building: ../src/Factoriz.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SeptemberLunchTimeChefAndEasyProblem.d" -MT"src/SeptemberLunchTimeChefAndEasyProblem.d" -o"src/SeptemberLunchTimeChefAndEasyProblem.o" "../src/SeptemberLunchTimeChefAndEasyProblem.cpp"
+Finished building: ../src/SeptemberLunchTimeChefAndEasyProblem.cpp
  
 Building target: codechefSubmissions
 Invoking: MacOS X C++ Linker
-g++  -o "codechefSubmissions"  ./src/Factoriz.o   
+g++  -o "codechefSubmissions"  ./src/Factoriz.o ./src/SeptemberLunchTimeChefAndEasyProblem.o   
 Finished building target: codechefSubmissions
  

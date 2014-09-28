@@ -39,4 +39,4 @@ void factoriz(){
 return;
 }
 
-int main() {factoriz();return 0;}
+//int main() {factoriz();return 0;}

@@ -1,0 +1,44 @@
+//============================================================================
+// Name        : HackerEarth.cpp
+// Author      : Bhavneet Singh Ahuja
+// Version     :
+// Copyright   : Your copyright notice
+//============================================================================
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+struct post{
+
+	long long int oldScore;
+	long long int newScore;
+	long long int id;
+	long long int increment;
+};
+
+
+void trendingTopics(){
+
+	long int n;
+	cin>>n;
+	vector<post> posts;
+
+	long long int temp,z, p , l, c, s, inc;
+	for(long int i=0;i<n;i++){
+		cin>>temp;
+
+		cin>>temp;
+
+
+		cin>>p;
+		cin>>l;
+		cin>>c;
+		cin>>s;
+		inc=p*50+l*5+c*10+s*20;
+
+	}
+
+}
+
+int main() {trendingTopics();return 0;}
