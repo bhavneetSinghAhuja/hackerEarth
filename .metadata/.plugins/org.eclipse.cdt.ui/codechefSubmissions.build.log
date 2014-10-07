@@ -2,13 +2,13 @@
 **** Build of configuration Debug for project codechefSubmissions ****
 
 make all 
-Building file: ../src/SeptemberLunchTimeChefAndEasyProblem.cpp
+Building file: ../src/FATCHEF.cpp
 Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SeptemberLunchTimeChefAndEasyProblem.d" -MT"src/SeptemberLunchTimeChefAndEasyProblem.d" -o"src/SeptemberLunchTimeChefAndEasyProblem.o" "../src/SeptemberLunchTimeChefAndEasyProblem.cpp"
-Finished building: ../src/SeptemberLunchTimeChefAndEasyProblem.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/FATCHEF.d" -MT"src/FATCHEF.d" -o"src/FATCHEF.o" "../src/FATCHEF.cpp"
+Finished building: ../src/FATCHEF.cpp
  
 Building target: codechefSubmissions
 Invoking: MacOS X C++ Linker
-g++  -o "codechefSubmissions"  ./src/Factoriz.o ./src/SeptemberLunchTimeChefAndEasyProblem.o   
+g++  -o "codechefSubmissions"  ./src/ChefAndGround.o ./src/FATCHEF.o ./src/Factoriz.o ./src/Prladdu.o ./src/SeptemberLunchTimeChefAndEasyProblem.o ./src/SeptemberLunchTimeChefAndEasyProblem2.o   
 Finished building target: codechefSubmissions
  

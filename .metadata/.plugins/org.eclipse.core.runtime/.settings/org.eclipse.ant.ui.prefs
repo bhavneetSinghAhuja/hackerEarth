@@ -1,8 +1,8 @@
-#Wed Sep 10 19:25:03 GMT+05:30 2014
-org.eclipse.ant.ui.processingInstructionsColor=216,216,216
-org.eclipse.ant.ui.commentsColor=199,221,12
-org.eclipse.ant.ui.dtdColor=255,255,255
+#Mon Sep 29 13:01:35 GMT+05:30 2014
+org.eclipse.ant.ui.processingInstructionsColor=224,226,228
+org.eclipse.ant.ui.commentsColor=125,140,147
+org.eclipse.ant.ui.dtdColor=103,140,177
 eclipse.preferences.version=1
-org.eclipse.ant.ui.tagsColor=255,255,255
-org.eclipse.ant.ui.textColor=216,216,216
-org.eclipse.ant.ui.constantStringsColor=255,198,0
+org.eclipse.ant.ui.tagsColor=103,140,177
+org.eclipse.ant.ui.textColor=224,226,228
+org.eclipse.ant.ui.constantStringsColor=236,118,0

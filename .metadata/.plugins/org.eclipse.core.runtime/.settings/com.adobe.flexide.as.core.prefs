@@ -1,22 +1,22 @@
-#Wed Sep 10 19:25:03 GMT+05:30 2014
-asASDocColor=\#CCDF32
+#Mon Sep 29 13:01:35 GMT+05:30 2014
+asASDocColor=\#7D8C93
 asReservedBold=false
 asClassStrikethrough=false
-asOperatorColor=\#D8D8D8
-asVarColor=\#79ABFF
-asMetadataColor=\#D8D8D8
-asClassColor=\#D25252
-asPackageColor=\#D8D8D8
-asTraceColor=\#D8D8D8
+asOperatorColor=\#E8E2B7
+asVarColor=\#E0E2E4
+asMetadataColor=\#A082BD
+asClassColor=\#678CB1
+asPackageColor=\#678CB1
+asTraceColor=\#E0E2E4
 eclipse.preferences.version=1
-asBracketColor=\#D8D8D8
+asBracketColor=\#E8E2B7
 asClassUnderline=false
 asCommentItalic=false
-asReservedColor=\#FFFFFF
-asTextColor=\#D8D8D8
+asReservedColor=\#93C763
+asTextColor=\#E0E2E4
 asClassBold=false
-asCommentColor=\#C7DD0C
+asCommentColor=\#7D8C93
 asASDocItalic=false
-asStringColor=\#FFC600
-asInterfaceColor=\#D197D9
-asFunctionColor=\#FFFFFF
+asStringColor=\#EC7600
+asInterfaceColor=\#678CB1
+asFunctionColor=\#678CB1

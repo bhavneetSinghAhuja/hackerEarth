@@ -72,41 +72,41 @@ else
 }
  return v;
 }
-
-int main()
-{
-   vector<unsigned long int> a;
-  // vector<unsigned long int> b;
-  unsigned long int v=0;
- unsigned int n,q,id=0;
- int c;
-   cin>>n;
-   a.resize(n+1);
-   a[0]=0;
-  // b.resize(n+1);
-   for(int i=1;i<=n;i++)
-   {
-   	cin>>a[i];
-   }
-   cin>>q;
-   while(q--)
-   {
-
-   cin>>c;
-   if(c==0)
-     {
-
-     	cin>>id>>v;
-     	a[id]=v;
-     }
-   else
-     {
-     	cin>>id;
-     	cout<<process_a(a,id)<<endl;
-     }
-
-    // cout<<id<<"-->"<<v<<endl;
-   id=0;v=0;
-   }
-   return 0;
-}
+//
+//int main()
+//{
+//   vector<unsigned long int> a;
+//  // vector<unsigned long int> b;
+//  unsigned long int v=0;
+// unsigned int n,q,id=0;
+// int c;
+//   cin>>n;
+//   a.resize(n+1);
+//   a[0]=0;
+//  // b.resize(n+1);
+//   for(int i=1;i<=n;i++)
+//   {
+//   	cin>>a[i];
+//   }
+//   cin>>q;
+//   while(q--)
+//   {
+//
+//   cin>>c;
+//   if(c==0)
+//     {
+//
+//     	cin>>id>>v;
+//     	a[id]=v;
+//     }
+//   else
+//     {
+//     	cin>>id;
+//     	cout<<process_a(a,id)<<endl;
+//     }
+//
+//    // cout<<id<<"-->"<<v<<endl;
+//   id=0;v=0;
+//   }
+//   return 0;
+//}

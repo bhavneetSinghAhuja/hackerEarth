@@ -21,3 +21,78 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.cdt.core 1 0 2014-09-28 22:31:16.063
 !MESSAGE Indexed 'HackerEarth' (1 sources, 158 headers) in 10.62 sec: 13,229 declarations; 22,058 references; 0 unresolved inclusions; 6 syntax errors; 10 unresolved names (0.03%)
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2014-09-29 12:55:22.519
+!MESSAGE An error occurred while committing the engine session for profile: epp.package.cpp.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2014-09-29 12:55:22.519
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Collect phase.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.getProfileDataDirectory(EngineSession.java:78)
+	at org.eclipse.equinox.internal.p2.engine.Phase.prePerform(Phase.java:95)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:221)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:178)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:82)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:44)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:174)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:79)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2014-09-29 12:55:26.750 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/bhavneet.ahuja/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/bhavneet.ahuja/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-09-29 12:55:38.570
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-09-29 13:00:23.389 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/bhavneet.ahuja/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/bhavneet.ahuja/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-09-29 13:00:32.746
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-10-03 15:02:48.253 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/bhavneet.ahuja/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/bhavneet.ahuja/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-03 15:02:55.027
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.debug.core 4 104 2014-10-05 00:28:13.274
+!MESSAGE The program file specified in the launch configuration does not exist
+!STACK 0
+java.io.FileNotFoundException: /Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/codechefSubmissions/Debug/codechefSubmissions not found
+	at org.eclipse.cdt.debug.core.CDebugUtils.verifyProgramPath(CDebugUtils.java:663)
+	at org.eclipse.cdt.debug.core.CDebugUtils.verifyProgramPath(CDebugUtils.java:679)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:84)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:70)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:702)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:924)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1128)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.cdt.debug.core 4 104 2014-10-05 00:49:17.961
+!MESSAGE The program file specified in the launch configuration does not exist
+!STACK 0
+java.io.FileNotFoundException: /Users/bhavneet.ahuja/Documents/workspaceCpp/hackerEarth/codechefSubmissions/Debug/codechefSubmissions not found
+	at org.eclipse.cdt.debug.core.CDebugUtils.verifyProgramPath(CDebugUtils.java:663)
+	at org.eclipse.cdt.debug.core.CDebugUtils.verifyProgramPath(CDebugUtils.java:679)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:84)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:70)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:702)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:924)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1128)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

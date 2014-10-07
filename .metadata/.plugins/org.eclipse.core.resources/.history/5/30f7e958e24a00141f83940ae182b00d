@@ -1,0 +1,14 @@
+/*
+ * ChefAndGround.h
+ *
+ *  Created on: Oct 3, 2014
+ *      Author: bhavneet.ahuja
+ */
+
+#ifndef CHEFANDGROUND_H_
+#define CHEFANDGROUND_H_
+
+class ChefAndGround {
+};
+
+#endif /* CHEFANDGROUND_H_ */

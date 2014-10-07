@@ -1,10 +1,10 @@
-#Wed Sep 10 19:25:03 GMT+05:30 2014
-tagBorder=\#FFFFFF | null | false | false | false | false
-tagAttributeName=\#FFFFFF | null | false | false | false | false
-SCRIPT_AREA_BORDER=\#D8D8D8 | null | false | false | false | false
-tagAttributeEquals=\#D8D8D8 | null | false | false | false | false
-tagAttributeValue=\#FFC600 | null | false | false | false | false
-jsp_content=\#D8D8D8 | null | false | false | false | false
+#Mon Sep 29 13:01:36 GMT+05:30 2014
+tagBorder=\#678CB1 | null | null | null | null | null
+tagAttributeName=\#93C763 | null | null | null | null | null
+SCRIPT_AREA_BORDER=\#E8E2B7 | null | null | null | null | null
+tagAttributeEquals=\#E0E2E4 | null | null | null | null | null
+tagAttributeValue=\#EC7600 | null | null | null | null | null
+jsp_content=\#E0E2E4 | null | null | null | null | null
 eclipse.preferences.version=1
-commentBorder=\#C7DD0C | null | false | false | false | false
-commentText=\#C7DD0C | null | false | false | false | false
+commentBorder=\#7D8C93 | null | null | null | null | null
+commentText=\#7D8C93 | null | null | null | null | null
