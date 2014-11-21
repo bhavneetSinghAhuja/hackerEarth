@@ -9,7 +9,8 @@ CPP_SRCS += \
 ../src/CuttingPaper.cpp \
 ../src/MiceV1.cpp \
 ../src/PinProblem1.cpp \
-../src/Rabbit.cpp 
+../src/Rabbit.cpp \
+../src/test.cpp 
 
 OBJS += \
 ./src/AboveAverage.o \
@@ -17,7 +18,8 @@ OBJS += \
 ./src/CuttingPaper.o \
 ./src/MiceV1.o \
 ./src/PinProblem1.o \
-./src/Rabbit.o 
+./src/Rabbit.o \
+./src/test.o 
 
 CPP_DEPS += \
 ./src/AboveAverage.d \
@@ -25,7 +27,8 @@ CPP_DEPS += \
 ./src/CuttingPaper.d \
 ./src/MiceV1.d \
 ./src/PinProblem1.d \
-./src/Rabbit.d 
+./src/Rabbit.d \
+./src/test.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes

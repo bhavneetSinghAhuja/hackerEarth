@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;HackerEarth/src/SelectionOfCities.h&apos;" deleteContents="false" description="Delete resource &apos;HackerEarth/src/SelectionOfCities.h&apos;" element1="/HackerEarth/src/SelectionOfCities.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1414768406478"/>&#x0A;<refactoring comment="Delete resource &apos;HackerEarth/src/RoysLife.h&apos;" deleteContents="false" description="Delete resource &apos;HackerEarth/src/RoysLife.h&apos;" element1="/HackerEarth/src/RoysLife.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1414769367148"/>
+</session>

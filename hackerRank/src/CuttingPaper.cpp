@@ -73,4 +73,4 @@ void cuttingPaper(){
 		cuttingPaperUtil();
 	return;
 }
-int main(){cuttingPaper();return 0;}
+//int main(){cuttingPaper();return 0;}
